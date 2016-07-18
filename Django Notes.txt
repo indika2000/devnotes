@@ -13,4 +13,4 @@ The unit-test/code cycle
 
 	Make a minimal code change in the editor.
 
-	Repeat!
+	Repeat
