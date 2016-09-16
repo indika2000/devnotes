@@ -1,4 +1,11 @@
 					Useful Commands and Concepts
+
+Create a new Django project
+        django-admin.py startproject <project name>                                                                                     
+
+Creating a new app in Django project
+        python3 manage.py startapp <app name>
+
 Running the Django dev server
 	python3 manage.py runserver
 
